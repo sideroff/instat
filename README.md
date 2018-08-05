@@ -1,2 +1,2 @@
 # instat
-Follower statistics for instagram.
+## Follower statistics for instagram.
